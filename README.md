@@ -9,7 +9,7 @@
 + OpenEphys：版本>= 
 + [Arduino IDE](https://www.arduino.cc/en/software/): 版本>= 2.0.0
 + [Arduino IDE语法简介](http://www.taichi-maker.com/homepage/reference-index/arduino-code-reference/)
-+ Arduino板：版本 R3
++ Arduino板：版本 UNO R3
 
 
 
